@@ -81,6 +81,7 @@ p {
     padding-bottom: 2em;
 }
 
+/* Section B */
 #section-b {
     padding: 2em 1em 1em;
 }
@@ -129,4 +130,12 @@ p {
 #main-footer a{
     color: #2690d4;
     text-decoration: none;
+}
+
+/* Media Queries */
+@media(min-width: 700px) {
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
 }
