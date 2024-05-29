@@ -64,6 +64,10 @@ p {
     padding-bottom: 0;
 }
 
+#showcase p{
+    padding: 2em;
+}
+
 #showcase .content-wrap
 #section-a .content-wrap{
     padding: 0 1.5em;
@@ -73,6 +77,7 @@ p {
 #section-a{
     background: #eaeaea;
     color: #333;
+    padding: 2em;
     padding-bottom: 2em;
 }
 
@@ -123,4 +128,5 @@ p {
 
 #main-footer a{
     color: #2690d4;
+    text-decoration: none;
 }
