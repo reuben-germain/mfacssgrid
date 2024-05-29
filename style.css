@@ -91,3 +91,7 @@ p {
     background: #fff;
     color: #333;
 }
+
+.card-content {
+    padding: 1.5em;
+}
