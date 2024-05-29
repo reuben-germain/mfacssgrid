@@ -112,3 +112,11 @@ p {
 #section-d .box:first-child{
     background: #2690d4;
 }
+
+/* Footer */
+#main-footer{
+    padding: 2em;
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
