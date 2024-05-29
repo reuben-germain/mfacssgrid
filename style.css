@@ -144,6 +144,10 @@ p {
         column-gap: 2em;
     }
 
+    #section-a .content-text p{
+        padding-top: 0;
+    }
+
     .content-wrap,
     #section-b ul {
         grid-column: 2/4;
