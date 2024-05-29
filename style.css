@@ -34,3 +34,8 @@ p {
     border: 1px solid #666;
     margin: .5em 0;
 }
+
+.btn:hover{
+    background: #eaeaea;
+    color: #333;
+}
