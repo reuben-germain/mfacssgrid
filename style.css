@@ -156,4 +156,13 @@ p {
     .box, #main-footer div{
         grid-column: span 2;
     }
+
+    #section-b ul{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #section-b li{
+        width: 31%;
+    }
 }
